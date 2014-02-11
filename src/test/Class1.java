@@ -11,7 +11,7 @@ public class Class1 {
 		int1 = 0;
 		int2 = 1;
 		string1 = "coucou";
-		string2 = "salut";		
+		string2 = "salutation";		
 	}
 	
 	public String toString(){
